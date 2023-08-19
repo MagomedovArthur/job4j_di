@@ -1,3 +1,7 @@
-# job4j_di
+# Dependency Injection
 ---
-В разделе "Spring" мы более подробно познакомимся с библиотекой Spring, упрощающей разработку приложений во многих её аспектах.
+* This app is a simple implementation of Spring Context.
+
+* Used technologies Implemented with:
+
+JDK 17 Maven 4.0.0
